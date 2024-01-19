@@ -30,7 +30,7 @@ The objective of a well-performing model is to significantly enhance the accurac
 
 ### Contact us
 
-Although our notebooks have well-explained analyzes and structured reasoning, we are available to discuss any part of this study in a more didactic way and listen to pertinent suggestions for improving this work. I wrote our email addresses below:
+Although our notebooks have well-explained analyzes and structured reasoning, we are available to discuss any part of this study in a more didactic way and listen to pertinent suggestions for improving this work. Our contact email addresses are as follows:
 
 * Antonio Sasaki (antonio.sasaki@ensae.fr)
 * Yang Song (yang.song@ensae.fr)
