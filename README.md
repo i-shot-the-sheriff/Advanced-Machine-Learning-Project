@@ -11,8 +11,10 @@ Our project tries to predict the probability that an online transaction is fraud
 This repository contains our final work for the **Advanced Machine Learning** course at **ENSAE**, Institut Polytechnique de Paris.
 
 In this repository, you will find the following files:
-* A **notebook** (.ipynb), explaining in more depth our modeling approaches. This notebook contains the main results.
-* A **database** (.zip) in the input folder that was obtained from the IEEE Computational Intelligence Society (IEEE-CIS).
+* The notebook **eda.ipynb** which contains code for exploratory data analysis on this original dataset.
+* The notebook **modeling-xgb-hyperopt.ipynb** which contains code for data processing, feature engineering, hyperparameter tuning and modeling.
+* The file **y_preds.csv** contains model predictions on the testset.
+* All **databases** in the input folder that was obtained from the IEEE Computational Intelligence Society (IEEE-CIS).
 
 If you want to run the notebook from your computer, you will need to clone this repository.
 
